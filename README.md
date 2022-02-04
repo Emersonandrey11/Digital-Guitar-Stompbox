@@ -11,8 +11,7 @@ This repo includes all de schematics files used in the PCB layout
 
 ## Main Code
 
-The main code can be found in the "main" file. The project was created using STMCubeMX for handling the I2S, DMA and GPIO configuration. The IDE used was keil uvision 5. The keil project can be requested at the email: emersonandrey11@gmail.com
-
+The main code can be found in the "main" file and it is a adapted file, the main file it's been updated frequently by the author. The project was created using STMCubeMX for handling the I2S, DMA and GPIO configuration. The IDE used was keil uvision 5. The "TCC_stm32f407" file contais all the files for compiling in your machine and try it for yourself.
 
 ## Flanger Step response
 A video of flanger step response can be found in the "step_response_flanger" in this repository.
