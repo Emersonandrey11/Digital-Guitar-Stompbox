@@ -1,5 +1,5 @@
 # Digital-Guitar-Stompbox
-This is a senior project aiming create real-time digital audio in an embedded system
+This is a senior project aiming create real-time digital audio in an embedded system. The project used STM32F407 Discovery Board as MCU, PCM1802 as ADC, PCM5102 as DAC. The antialiasing and reconstruction filters was a 5 order Butterworth lowpass filter. 
 
 ## Video Demonstration
 
