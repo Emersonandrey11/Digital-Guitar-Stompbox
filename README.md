@@ -15,7 +15,7 @@ The main code can be found in the "main" file. The project was created using STM
 
 
 ## Flanger Step response
-A video of flanger step response can be found in the "flanger step response video" in this repository.
+A video of flanger step response can be found in the "step_response_flanger" in this repository.
 
 
 ## There's a file that explain all the senior project presented in portuguese
